@@ -1,0 +1,13 @@
+{
+	"MailjetConfig": {
+		"APIKey": "your_api_key",
+		"APISecret": "your_secret_key",
+		"Email": "ex@mple.com",
+		"Domain":"www.example.com"
+	},
+	"SlackConfig": {
+		"Token":"your_slack_token",
+		"Channel":"#general",
+		"Emoji":":interrobang:"
+	}
+}
